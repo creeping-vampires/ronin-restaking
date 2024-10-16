@@ -1,0 +1,6 @@
+foundry
+
+.gitignore
+.prettierignore
+
+package-lock.json
